@@ -1,5 +1,5 @@
 
-#  Hi, I'm Prince! 👋
+## नमस्ते (Namaste), My name is Prince Kumar 👋
 
 
 ## 🚀 A little more about me
@@ -16,7 +16,8 @@
 
 
 ## 📫 How to reach me...
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-440ab7210)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-440ab7210) [![Instagram Badge](https://img.shields.io/badge/-@princekumar6_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/princekumar6_)](https://instagram.com/princekumar6_)
+[![Gmail Badge](https://img.shields.io/badge/-iamprince727@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamprince727@gmail.com)](mailto:iamprince727@gmail.com)
 
 
 ##  🖥️📱💻 Tech Stack
